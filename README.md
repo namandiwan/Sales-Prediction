@@ -1,2 +1,2 @@
 # Sales-Prediction
-This Project concerns with the sales prediction using simple liner regression model and some of the python libraries
+This Project concerns with sales revenue generated with respect to advertisement spends across multiple channels like radio, tv and newspaper using simple linear regression model and some of the python libraries
